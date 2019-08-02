@@ -21,7 +21,7 @@ This paragraphe has some `variable` inline code.
 let num = Math.random();
 ```
 
-![alt text](http:picsum.photos/200/)
+![alt text](https://unsplash.com/photos/7GX5aICb5i4)
 
 Some paragraph with text
 > blockquote text below the paragraph
